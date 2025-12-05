@@ -1,0 +1,5 @@
+{
+  "name": "PolicyTrade Analyzer",
+  "description": "A sophisticated dashboard for analyzing secondary market life insurance policy transactions, calculating IRRs for sellers and buyers, and simulating broker fees.",
+  "requestFramePermissions": []
+}
